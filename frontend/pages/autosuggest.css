@@ -17,12 +17,46 @@ h1{
     text-align:center;
     margin-top: 100px;
 }
-p{
-    color: grey;
+.p1
+{
+    color:darkslategray;
 }
-.auto{
+.Being{
     color: blue;
 }
-.suggest{
-    color: black;
+.Infinity{
+    color:red;
+}
+.search{
+    padding: 10px 10px 10px 25px;
+    border-radius: 30px;
+    width: 30%;
+}
+.lens{
+    position: relative;
+left: 30px;
+}
+#suggest-box{
+   border: 1px solid black;
+    margin: 3px auto;
+    width: 32.5%;
+    position: relative;
+    left: 9px;
+    height: 330px;
+    text-align: center;
+     border-radius: 10px;
+}
+.suggest-text{
+    padding:5px;
+    border-bottom:1px solid #ddd;
+    cursor:pointer;
+    text-align:left;
+}
+
+.suggest-text:last-child{
+    border-bottom:none;
+}
+
+.suggest-text:hover{
+    background-color:#f2f2f2;
 }
