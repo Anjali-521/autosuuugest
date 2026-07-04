@@ -26,3 +26,52 @@ h1{
     text-decoration:none;
     color:white
 }
+#card {
+  align-items: center;
+  margin-top: 5px;
+  border: 3px solid green;
+  width: 300px;
+  height: 580px;
+  margin: 3px auto;
+}
+
+#card-img {
+  width: 300px;
+  height: 300px;
+  border-radius:80px;
+}
+
+#img {
+  width: 300px;
+  height: 300px;
+}
+
+#action {
+  text-align: center;
+}
+
+/* John Doe Card */
+
+#card2 {
+  align-items: center;
+  margin-top: 20px;
+}
+
+#card-img2 {
+  width: 300px;
+  height: 300px;
+  margin: 0px auto;
+}
+
+#img2 {
+  width: 300px;
+  height: 300px;
+}
+
+#action2 {
+  text-align: center;
+}
+
+button{
+width: 100%;
+}
