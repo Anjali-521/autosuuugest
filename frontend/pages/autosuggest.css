@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+.setting{
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    size: 25px;
+}
+.online{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+.main{
+    text-align:center;
+    margin-top: 100px;
+}
+p{
+    color: grey;
+}
+.auto{
+    color: blue;
+}
+.suggest{
+    color: black;
+}
